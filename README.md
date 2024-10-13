@@ -80,8 +80,6 @@ I once "fixed" a bug that wasn't a bug—it was a feature! 💡 Now, I call it c
 
 
 
----
-
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
   <a href="https://dev.to/douaa19_20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
