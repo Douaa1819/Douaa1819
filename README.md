@@ -48,13 +48,6 @@ I once "fixed" a bug that wasn't a bug—it was a feature! 💡 Now, I call it c
 - 🎨 Sketching anime and manga characters 🎨
 - 🎮 Gaming (especially RPGs) when I’m not coding 🎮
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=douaa1819&theme=radical&no-bg=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
