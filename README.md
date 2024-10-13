@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Douaa Chemnane</h1>
 <h3 align="center">A passionate programmer from Morocco 🇲🇦</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500"/>
-</p>
 
 ---
 
