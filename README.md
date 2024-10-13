@@ -57,10 +57,6 @@ I once "fixed" a bug that wasn't a bug—it was a feature! 💡 Now, I call it c
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=douaa1819&show_icons=true&locale=en&layout=compact&theme=radical" alt="douaa1819" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douaa1819&show_icons=true&theme=radical" alt="Douaa Chemnane's GitHub stats" />
-</p>
-
 ---
 
 ### 🧠 Random Dev Quote
@@ -82,10 +78,7 @@ I once "fixed" a bug that wasn't a bug—it was a feature! 💡 Now, I call it c
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douaa1819&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 ---
 
