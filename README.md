@@ -71,12 +71,6 @@ I once "fixed" a bug that wasn't a bug—it was a feature! 💡 Now, I call it c
 
 ---
 
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=douaa1819&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
 
 
 
