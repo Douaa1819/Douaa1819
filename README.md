@@ -44,9 +44,10 @@ I once "fixed" a bug that wasn't a bug—it was a feature! 💡 Now, I call it c
 ---
 
 ### 🎨 Hobbies Outside of Code
-- 📚 I love reading books about philosophy and technology 📖
-- 🎨 Sketching anime and manga characters 🎨
-- 🎮 Gaming (especially RPGs) when I’m not coding 🎮
+-📚 I love reading books about philosophy and technology 📖
+-🍳 Cooking and experimenting with new recipes 👩‍🍳
+-🎬 Watching films and anime 🎥
+-⚽ Enjoying various sports and staying active 🏃‍♂️
 
 
 ---
