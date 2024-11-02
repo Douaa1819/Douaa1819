@@ -1,5 +1,4 @@
-<h1 align="center">Hello 👋, I'm Douae Chemnane</h1> <h3 align="center">A Passionate Full-Stack Developer from Morocco 🇲🇦 💻</h3> <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Code animation on a computer screen"/> </p>
----
+<h1 align="center">Hello 👋, I'm Douae Chemnane</h1> <h3 align="center">A Passionate Full-Stack Developer from Morocco 🇲🇦 💻</h3> <p align="center"> <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" alt="Woman coding animation"/> </p>
 
 ### 🛠 Tech Stack
 - 🌱 Currently diving deep into:
