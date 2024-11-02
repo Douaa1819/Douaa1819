@@ -23,7 +23,7 @@
   - [Medium](https://medium.com/@douaachemnane)
   - [LinkedIn](https://www.linkedin.com/in/douae-chemnane-b75bba254/)
 
-- 💬 Ask me about **Full-stack development, performance, scalability, and building modern web apps with Laravel, Next.js, Angular**
+- 💬 Ask me about **Full-stack development, performance, scalability, and building modern web apps with Java,Spring-boot, Laravel, Next.js, Angular**
 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/douae-chemnane-b75bba254/)
@@ -32,7 +32,7 @@
 ---
 
 ### ⚡ Fun Fact
-I once "fixed" a bug that wasn't a bug—it was a feature! 💡 Now, I call it creative problem-solving!
+When I'm not coding, you’ll find me experimenting with new recipes or baking up a storm in the kitchen! 🍰👩‍🍳
 
 ---
 
